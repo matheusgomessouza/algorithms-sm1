@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main() {
-  printf("Type the first number:");
+  printf("Type the first number: ");
   int numberOne;
   scanf("%d", &numberOne);
-  printf("Type the second number:");
+  printf("Type the second number: ");
   int numberTwo;
   scanf("%d", &numberTwo);
 
