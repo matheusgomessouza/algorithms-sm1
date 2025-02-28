@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int i;
-int sum;
+float sum;
 float average;
 
 void main() {
